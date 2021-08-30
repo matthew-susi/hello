@@ -4,5 +4,6 @@
 int main()
 {
     printf("Matthew Susi");
+    printf("Computer Science")
     return 0;
 }
