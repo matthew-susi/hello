@@ -3,7 +3,7 @@
 
 int main()
 {
-    printf("Matthew Susi");
-    printf("Computer Science")
+    printf("Matthew Susi\n");
+    printf("Computer Science");
     return 0;
 }
